@@ -1,6 +1,8 @@
 
 Seçil Alican  2111502251
+
 Sem Samsum  2111502005
+
 Alperen Yün  2111502038
 
 Örnek Sorgular:
